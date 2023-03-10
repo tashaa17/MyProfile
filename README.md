@@ -15,7 +15,7 @@
 3. Connecting with industry professionals along my new career journey. 
 
 ## Providence Internship: IS EBA Pillar - Project Coordinator 1
-#### I will be supporting the Information Systems (IS) team, specifically working within their Enterprise Business Applications to support major software systems (ERP, HRIS, Timekeeping)
+### I will be supporting the Information Systems (IS) team, specifically working within their Enterprise Business Applications to support major software systems (ERP, HRIS, Timekeeping)
 
 - Testing and possibly programming Oracle in-tool learning assets.
 -	Data entry and data comparison (reconciliation) related to learning assets, data cleanup.
@@ -28,7 +28,7 @@
 - Comprehensive Understanding of SDLC 
 - PowerBI 
 
-#### Relevant Skills: 
+#### Relevant Information: 
 
 > #### Education  
 >
