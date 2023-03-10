@@ -44,4 +44,4 @@
 
 
 
-![alt text](/IMG_8808.jpg "Grad Picture")
+![alt text](/IMG_8808.jpg)
