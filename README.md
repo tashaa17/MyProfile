@@ -39,7 +39,7 @@
 > #### Awards/Accomplishments 
 >
 > - FBLA Business Ethics Sate Finalist 2019 
-> - FLBA Buisness Law Regional Winner 2019 
+> - FLBA Business Law Regional Winner 2019 
 > - Awarding $40,000 in grants to non-profits in Greater Seattle Area 
 
 ## LinkedIn: 
