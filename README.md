@@ -42,7 +42,9 @@
 > - FLBA Buisness Law Regional Winner 2019 
 > - Awarding $40,000 in grants to non-profits in Greater Seattle Area 
 
+## LinkedIn: 
 
+[Natasha Singh](https://www.linkedin.com/in/natasha-singh-47b0b3168/).
 
 ![alt text](/IMG_8808.jpg)
 
