@@ -1,4 +1,4 @@
-# *Natasha Singh*
+# Natasha Singh
 
 ## I am a Project Management student at Year Up
 
@@ -49,4 +49,10 @@
 ![alt text](/IMG_8808.jpg)
 
 ![alt text](IMG_8810.jpg)
-**Natasha is one of the best students in our class.**      Helen Meles
+
+
+
+
+
+
+I wish you all the best on you internship. 💙.   *Helen Meles*
