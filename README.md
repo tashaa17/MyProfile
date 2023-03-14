@@ -1,4 +1,4 @@
-# Natasha Singh
+# *Natasha Singh*
 
 ## I am a Project Management student at Year Up
 
