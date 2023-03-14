@@ -49,3 +49,4 @@
 ![alt text](/IMG_8808.jpg)
 
 ![alt text](IMG_8810.jpg)
+**Natasha is one of the best students in our class.**      Helen Meles
